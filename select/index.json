@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "右肩の蝶",
+  "base_artist": "くろくも",
+  "createdAt": "2026-03-11T05:09:23.453779Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "右肩の蝶",
+      "artist": "Noripy",
+      "has_synced": true,
+      "path": "select/01_右肩の蝶_Noripy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "右肩の蝶 -Ver.3.0.1-",
+      "artist": "のりぴー feat. 鏡音レン",
+      "has_synced": false,
+      "path": "select/02_右肩の蝶_-Ver.3.0.1-_のりぴー_feat._鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "右肩の蝶",
+      "artist": "のりぴー feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/03_右肩の蝶_のりぴー_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "右肩の蝶",
+      "artist": "のりぴー",
+      "has_synced": true,
+      "path": "select/04_右肩の蝶_のりぴー.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "右肩の蝶 feat.ぐるたみん",
+      "artist": "のりぴー",
+      "has_synced": false,
+      "path": "select/05_右肩の蝶_feat.ぐるたみん_のりぴー.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "右肩の蝶",
+      "artist": "NoriP (のりP)",
+      "has_synced": true,
+      "path": "select/06_右肩の蝶_NoriP_(のりP).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "右肩の蝶",
+      "artist": "のりぴー feat. 鏡音レン",
+      "has_synced": true,
+      "path": "select/07_右肩の蝶_のりぴー_feat._鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "右肩の蝶 -Ver.3.0.1-",
+      "artist": "のりぴー",
+      "has_synced": false,
+      "path": "select/08_右肩の蝶_-Ver.3.0.1-_のりぴー.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "右肩の蝶",
+      "artist": "のりぴー; 鏡音レン",
+      "has_synced": true,
+      "path": "select/09_右肩の蝶_のりぴー;_鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "右肩の蝶",
+      "artist": "のりぴー feat. 鏡音リン",
+      "has_synced": false,
+      "path": "select/10_右肩の蝶_のりぴー_feat._鏡音リン.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "右肩の蝶 -MIKU EXPO 2014 in INDONESIA Live-",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/11_右肩の蝶_-MIKU_EXPO_2014_in_INDONESIA_Live-_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "右肩の蝶",
+      "artist": "NoriP feat. Kagamine Rin",
+      "has_synced": true,
+      "path": "select/12_右肩の蝶_NoriP_feat._Kagamine_Rin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "右肩の蝶",
+      "artist": "NoriP",
+      "has_synced": true,
+      "path": "select/13_右肩の蝶_NoriP.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "右肩の蝶",
+      "artist": "のりぴー feat.鏡音レン",
+      "has_synced": true,
+      "path": "select/14_右肩の蝶_のりぴー_feat.鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "右肩の蝶 -MIKU EXPO 2014 in INDONESIA Live-",
+      "artist": "noripy",
+      "has_synced": false,
+      "path": "select/15_右肩の蝶_-MIKU_EXPO_2014_in_INDONESIA_Live-_noripy.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "右肩の蝶 -MIKUNOPOLIS in LOS ANGELES Live-",
+      "artist": "noripy",
+      "has_synced": true,
+      "path": "select/16_右肩の蝶_-MIKUNOPOLIS_in_LOS_ANGELES_Live-_noripy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "右肩の蝶 (killdisco remix)",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/17_右肩の蝶_(killdisco_remix)_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "右肩の蝶",
+      "artist": "鏡音リン/のりP",
+      "has_synced": false,
+      "path": "select/18_右肩の蝶_鏡音リン_のりP.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "右肩の蝶",
+      "artist": "くろくも",
+      "has_synced": false,
+      "path": "select/pl_01_右肩の蝶_くろくも.txt"
+    }
+  ]
+}
